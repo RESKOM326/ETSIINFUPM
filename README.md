@@ -1,2 +1,2 @@
-# ETSIINF UPM - CÇODIGOS DE TRABAJOS Y PROYECTOS
+# ETSIINF UPM - CÓDIGOS DE TRABAJOS Y PROYECTOS
 Todo tipo de trabajos de la universidad. Básicamente meto aqui toda la mierda que tengo gastando espacio en disco de asignaturas que ya he pasado. Programación I, II. Quizás conserve los trabajos de Probabilidad y Estadística I. Algoritmos y Estructuras de Datos, Programación para Sistemas, Estructura y Arquitectura de Computadores, Bases de Datos, Concurrencia. 
