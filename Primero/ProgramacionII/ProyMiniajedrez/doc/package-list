@@ -1,0 +1,7 @@
+progii.juegotablero.exceptions
+progii.juegotablero.gui
+progii.juegotablero.model
+progii.juegotablero.model.ajedrez
+progii.juegotablero.model.ajedrez.piezas
+progii.juegotablero.resources
+test
