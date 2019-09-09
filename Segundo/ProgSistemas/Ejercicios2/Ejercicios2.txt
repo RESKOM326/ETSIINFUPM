@@ -1,0 +1,108 @@
+================================
+
+- Ejercicio 1:
+
+Realice un programa en lenguaje C con nombre
+'proc_lineas1.c' que procese el fichero de
+entrada 'fich_lineas1.txt' tal que
+escriba en salida estándar cada línea precedida
+por 
+dichas líneas como una sola línea. El programa
+debe escribir las líneas sin el carácter nueva
+línea que puedan tener al final.
+
+
+Si el fichero de entrada es 'fich_lineas1.txt' :
+
+Linea 1,
+ linea 2,
+ linea 3,
+ linea 4 y
+ linea 5.
+
+Entonces la salida debe ser:
+1:Linea 1,
+2: linea 2,
+3: linea 3,
+4: linea 4 y
+5: linea 5.
+
+Nota: se puede suponer que el fichero de entrada
+sólo contiene caracteres ASCII.
+
+
+================================
+
+- Ejercicio 2:
+
+Realice un programa en lenguaje C con nombre
+'proc_lineas2.c' que procese el fichero de
+entrada 'fich_lineas1.txt' tal que
+escriba en salida estándar el contenido de
+dichas líneas como una sola línea. El programa
+debe escribir las líneas sin el carácter nueva
+línea que puedan tener al final.
+
+
+Si el fichero de entrada es 'fich_lineas1.txt' :
+
+Linea 1,
+ linea 2,
+ linea 3,
+ linea 4 y
+ linea 5.
+
+Entonces la salida debe ser:
+Linea 1, linea 2, linea 3, linea 4 y linea 5.
+
+Nota: se puede suponer que el fichero de entrada
+sólo contiene caracteres ASCII.
+
+
+=================================
+
+- Ejercicio 3:
+
+Realice una nueva versión 'proc_lineas3.c' del
+programa anterior que reciba el nombre del fichero
+a procesar como argumento en línea de comando.
+
+Ejemplo de llamada (suponiendo el nombre del
+ejecutable es 'proc_lineas3'):
+./proc_lineas3 fich_lineas1.txt
+
+
+=================================
+
+- Ejercicio 4:
+
+Realice una nueva versión 'proc_lineas4.c' del
+programa anterior para que pueda procesar varios
+ficheros de entrada, de forma que se concatenen
+todas líneas de todos los ficheros en una sola
+línea.
+
+
+=================================
+
+- Ejercicio 5:
+
+Realice una nueva versión 'proc_lineas5.c'
+del programa anterior para que, además de lo
+ya considerado, si no hubiera ficheros de
+entrada como argumento, el programa procese
+las líneas que recibe por entrada estándar.
+
+Por ejemplo, si la llamada del ejecutable
+'proc_lineas5' es:
+
+cat fich_lineas1.txt | ./proc_lineas5
+
+entonces la salida debe ser:
+Linea 1, linea 2, linea 3, linea 4 y linea 5.
+
+
+=================================
+
+
+

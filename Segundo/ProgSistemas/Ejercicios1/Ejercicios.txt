@@ -1,0 +1,52 @@
+
+
+================================
+
+- Ejercicio 1:
+Compilar y probar el programa 'factorial_rec_arg_1.c'
+proporcionado en el Moodle.
+
+Experimentar redireccionando las salidas estándar (stdout)
+y error (stderr) a ficheros.
+
+
+================================
+
+- Ejercicio 2:
+Tomando como base el programa 'factorial_rec_arg_1.c', realizar
+un programa 'factorial_ite_arg_1.c' que implemente el cálculo
+del factorial de forma iterativa.
+
+(Nota: en vez de la función 'fact_rec', se deberá implementar
+y llamar a una nueva función que se llame 'fact_ite' que
+calcule el factorial iterativamente).
+
+
+================================
+
+- Ejercicio 3:
+Tomando como base el programa factorial_ite_arg_1.c, realizar
+un programa 'factorial_ite_arg_proc_1.c' que utilice
+una función 'fact_ite_proc' tipo procedimiento (es decir,
+una función que no devuelve un resultado) en la que el
+resultado se devuelva en un argumento del procedimiento.
+
+(Nota: puede servir de ayuda el fichero incompleto:
+factorial_ite_arg_proc_1.c.INCOMPLETO).
+
+
+================================
+
+- Ejercicio 4:
+Tomando como base el programa factorial_rec_arg_1.c, realizar
+una versión de este programa que se componga de varios ficheros,
+de forma que la función 'main' se encuentre en el fichero
+'factorial_rec_arg_main1.c', y que la función 'fact_rec'
+se encuentre en otro fichero 'fact_rec.c'.
+
+Experimentar compilando y lanzando el ejecutable.
+El ejecutable se debrá llamar 'factorial_rec_arg_main1'.
+
+
+================================
+

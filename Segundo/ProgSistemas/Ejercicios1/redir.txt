@@ -1,0 +1,1 @@
+El factorial de 5 es (versión recursiva): 120
